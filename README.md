@@ -85,6 +85,8 @@ Supported methods for action localization:
 Results and models are available in the *README.md* of each method's config directory.
 A summary can be found in the [**model zoo**](https://mmaction2.readthedocs.io/en/latest/modelzoo.html) page.
 
+Additional model for gestures recognition trained on the [Jester](https://20bn.com/datasets/jester) dataset is available [here](https://drive.google.com/drive/folders/1UgQOgo5Qzpwait9qEwFSR6z_FUNyY6K4?usp=sharing).
+
 ## Installation
 
 Please refer to [install.md](docs/install.md) for installation.
